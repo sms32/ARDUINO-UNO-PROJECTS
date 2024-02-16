@@ -1,6 +1,6 @@
  <h1 style="text-align: center;">ARDUINO UNO PROJECTS</h1>
     <hr>
-<img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/013eb9c0-f9e2-4881-ac73-2ca4abb2e638" alt="ARDUINO UNO">
+<img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/013eb9c0-f9e2-4881-ac73-2ca4abb2e638" alt="ARDUINO UNO"  width="50%">
 
     <h3>THIS PROJECT IS DONE USING ARDUINO IDE/UNO SOFTWARE</h3>
     <br><br>
