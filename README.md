@@ -27,7 +27,7 @@
         the standard components mentioned above and also additionally LED bulbs with 220 OHM resistor is connected to the bread board and connected to the ARDUINO UNO and the code is dumped and the project will work as mentioned in the code.
     </h3>
     <br>
-     <h2>#1  MOVEMENT DETECTION USING PIR SENSOR </h2>
+     <h2>#2  MOVEMENT DETECTION USING PIR SENSOR </h2>
     <h3>This project is used to detect the motion of a person or object and prints the output as detected if any movement is detected . It is constructed using components such as <br>
         the standard components mentioned above and also additionally LED bulbs with 220 OHM resistor is connected to the bread board which glows when a moment is detected and PIR sensor which detects the sensor is also used and all of these are connected to the ARDUINO UNO and the code is dumped and the project will work as mentioned in the code.
     </h3>
