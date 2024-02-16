@@ -1,1 +1,1 @@
-<h1>ARDUINO UNO PROJECTS</h1>
+<h1 style="text-align: center;">ARDUINO UNO PROJECTS</h1>
