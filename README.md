@@ -52,4 +52,6 @@
      <h2>#5  GARBAGE COLLECTION SYSTEM </h2>
     <h3>This project is used to collect garbage when the garbage is detected the dustbin or recycle bin will open and when no garbage is detected the bin will be closed . It is constructed using components such as 
         the standard components mentioned above and also additionally LED bulbs with 220 OHM resistor is connected to the bread board which glows when a garbage is detected and ULTRASONIC sensor which detects the distance of a garbage and the dustbin/recycle bin  is also used and all of these are connected to the ARDUINO UNO and the code is dumped and the project will work as mentioned in the code.
+      <br>
+     <img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/d619c233-4023-45df-bb3b-3f771a2c84ab" alt="TRAFFIC LIGHT SYSTEM" width="50%">
     </h3>
