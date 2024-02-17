@@ -38,6 +38,8 @@
      <h2>#3  LM35 - TEMPERATURE MONITORING SYSTEM </h2>
     <h3>This project is used to analyse the temperature of the surrounding and display the temperature . It is constructed using components such as 
         the standard components mentioned above and also additionally LED bulbs with 220 OHM resistor is connected to the bread board which glows when the temperature is above 25 degree celsius and LM35 sensor is used to detect the temperature  and all of these are connected to the ARDUINO UNO and the code is dumped and the project will work as mentioned in the code.
+     <br>
+     <img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/47058b9b-4ed7-46bc-b3aa-a1c67b699d80" alt="TRAFFIC LIGHT SYSTEM" width="50%">
     </h3>
     <br>
      <h2>#4  SOIL MOISTURE SENSOR </h2>
