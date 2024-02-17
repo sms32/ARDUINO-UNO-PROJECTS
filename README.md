@@ -24,13 +24,15 @@
      </li><hr>
     <h2>#1  TRAFFIC LIGHT SYSTEM</h2>
     <h3>This project is used to maintain traffic in a local area . It is constructed using components such as 
-        the standard components mentioned above and also additionally LED bulbs with 220 OHM resistor is connected to the bread board and connected to the ARDUINO UNO and the code is dumped and the project will work as mentioned in the code.
+        the standard components mentioned above and also additionally LED bulbs with 220 OHM resistor is connected to the bread board and connected to the ARDUINO UNO and the code is dumped and the project will work as mentioned in the code.<br>
 <img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/7f2bf323-0699-4816-9d14-2f0d83701805" alt="TRAFFIC LIGHT SYSTEM" width="50%">
     </h3>
     <br>
      <h2>#2  MOVEMENT DETECTION USING PIR SENSOR </h2>
     <h3>This project is used to detect the motion of a person or object and prints the output as detected if any movement is detected . It is constructed using components such as 
         the standard components mentioned above and also additionally LED bulbs with 220 OHM resistor is connected to the bread board which glows when a movement is detected and PIR sensor which detects the movement  is also used and all of these are connected to the ARDUINO UNO and the code is dumped and the project will work as mentioned in the code.
+     <br>
+<img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/b25a04b1-5c62-41a0-b862-d36dd8ae7142" alt="TRAFFIC LIGHT SYSTEM" width="50%">
     </h3>
     <br>
      <h2>#3  LM35 - TEMPERATURE MONITORING SYSTEM </h2>
