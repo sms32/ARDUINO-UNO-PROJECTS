@@ -55,8 +55,9 @@
       <br>
      <img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/d619c233-4023-45df-bb3b-3f771a2c84ab" alt="TRAFFIC LIGHT SYSTEM" width="50%">
      <br>
-     <a href="https://wokwi.com/projects/390005390030647297" target="_blank">CHECK WORKING MODEL</a>
     </h3>
+         <a href="https://wokwi.com/projects/390005390030647297" target="_blank">CHECK WORKING MODEL</a>
+         <hr>
     <br>
     <h1><b>NOTE : UPCOMING PROJECT </b></h1>
      <h2>#6  SMART HOME AUTOMATION </h2>
