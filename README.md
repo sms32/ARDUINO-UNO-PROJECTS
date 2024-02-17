@@ -25,7 +25,8 @@
     <h2>#1  TRAFFIC LIGHT SYSTEM</h2>
     <h3>This project is used to maintain traffic in a local area . It is constructed using components such as 
         the standard components mentioned above and also additionally LED bulbs with 220 OHM resistor is connected to the bread board and connected to the ARDUINO UNO and the code is dumped and the project will work as mentioned in the code.
-<img src="[https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/013eb9c0-f9e2-4881-ac73-2ca4abb2e638](https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/091448a3-08d8-494f-b5b8-2f8c652c4523)" alt="ARDUINO UNO"  width="50%">
+![Screenshot 2024-02-17 154245](https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/7f2bf323-0699-4816-9d14-2f0d83701805)
+<img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/7f2bf323-0699-4816-9d14-2f0d83701805" alt="TRAFFIC LIGHT SYSTEM" width="50%">
     </h3>
     <br>
      <h2>#2  MOVEMENT DETECTION USING PIR SENSOR </h2>
