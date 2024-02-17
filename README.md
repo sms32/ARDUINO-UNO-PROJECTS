@@ -56,7 +56,6 @@
      <img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/d619c233-4023-45df-bb3b-3f771a2c84ab" alt="TRAFFIC LIGHT SYSTEM" width="50%">
     </h3>
     <br>
-
     <h1><b>NOTE : UPCOMING PROJECT </b></h1>
      <h2>#6  SMART HOME AUTOMATION </h2>
     <h3>This project is used to detect the moisture present in soil and with certain condition/situations and if nescessary it will turn on the sprinkler to moisturize the soil. It is constructed using components such as 
