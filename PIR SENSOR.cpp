@@ -17,6 +17,15 @@ void loop()
 if (sensor == HIGH)
 {
 Serial.print("MOTION DETECTED");
+Serial.print("\n ");
+delay(1000);
+digitalWrite(LED,HIGH);
+}
+else
+{
+  Serial.print("MOTION NOT DETECTED");
+  Serial.print("\n ");
+  delay(1000);
 digitalWrite(LED,LOW);
 }
 }
