@@ -36,20 +36,21 @@ distance = duration * 0.034 / 2;
  int LM35 = analogRead(temp);
 int celsius = (LM35 * 500)/1024;
  int sensor = digitalRead(PIR);
+ Serial.print("\n");
 Serial.print("Surrounding Temperature = ");
 Serial.print(celsius);
 delay(1000);
 Serial.print("\n");
 Serial.print("Distance = ");
 Serial.println(distance);
-Serial.print("\n");
+
 delay(1000);
 Serial.print("Moisture = ");
 Serial.print(moisture_percentage);
 Serial.print("%\n");
 delay(1000);
 
-if ((moisture_percentage > 10) && (distance > 10) && (celsius >= 15))
+if ((moisture_percentage > 10) && (sensor == HIGH) &&(distance > 10) && (celsius >= 15))
 {
 Serial.print("MOTION DETECTED");
 Serial.print("\n ");
