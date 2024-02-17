@@ -45,6 +45,8 @@
      <h2>#4  SOIL MOISTURE SENSOR </h2>
     <h3>This project is used to detect the moisture present in soil and display the level of moisture present . It is constructed using components such as 
         the standard components mentioned above and also additionally LED bulbs with 220 OHM resistor is connected to the bread board which glows when moisture present is above a desired level and SOIL MOISTURE sensor which detects the moisture is also used and a servo motor is used which opens and closes the bin and  all of these are connected to the ARDUINO UNO and the code is dumped and the project will work as mentioned in the code.
+     <br>
+     <img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/d716a9f5-ea7b-4e3c-8f09-80388cd64f5c" alt="TRAFFIC LIGHT SYSTEM" width="50%">
     </h3>
     <br>
      <h2>#5  GARBAGE COLLECTION SYSTEM </h2>
