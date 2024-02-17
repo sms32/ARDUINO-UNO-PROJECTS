@@ -7,6 +7,7 @@ long duration;
 int distance;
 int servoPin = 3;
 const int sen = A1;
+int temp = A2 ; 
 Servo Servo1;
 void setup()
 {
@@ -14,6 +15,7 @@ void setup()
   pinMode(trigPin,OUTPUT);
   pinMode(echoPin,INPUT);
   pinMode(13,OUTPUT);
+  pinMode(temp,INPUT);
   Servo1.attach(servoPin);
 }
 void loop()
@@ -28,6 +30,12 @@ delayMicroseconds(2);
 delayMicroseconds(10);
 duration = pulseIn(echoPin,HIGH);
 distance = duration * 0.034 / 2;
+ int LM35 = analogRead(temp);
+int celsius = (LM35 * 500)/1024;
+Serial.print("Surrounding Temperature = ");
+Serial.print(celsius);
+delay(1000);
+Serial.print("\n");
 Serial.print("Distance = ");
 Serial.println(distance);
 Serial.print("\n");
@@ -37,7 +45,7 @@ Serial.print(moisture_percentage);
 Serial.print("%\n");
 delay(1000);
 
-if ((moisture_percentage > 10) && (distance > 10))
+if ((moisture_percentage > 10) && (distance > 10) && (celsius >= 15))
 {
   Servo1.write(180);
   digitalWrite(13,HIGH);
