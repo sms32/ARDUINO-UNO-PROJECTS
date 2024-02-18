@@ -37,6 +37,8 @@
      <br>
 <img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/b25a04b1-5c62-41a0-b862-d36dd8ae7142" alt="TRAFFIC LIGHT SYSTEM" width="50%">
     </h3>
+    <a href="https://wokwi.com/projects/390049573689037825" target="_blank">CHECK WORKING MODEL</a>
+    <br>
     <br>
      <h2>#3  LM35 - TEMPERATURE MONITORING SYSTEM </h2>
     <h3>This project is used to analyse the temperature of the surrounding and display the temperature . It is constructed using components such as 
