@@ -46,7 +46,7 @@
      <br>
      <img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/47058b9b-4ed7-46bc-b3aa-a1c67b699d80" alt="TRAFFIC LIGHT SYSTEM" width="50%">
     </h3>
-    <a href="https://wokwi.com/projects/390049573689037825" target="_blank">CHECK WORKING MODEL</a>
+    <a href="https://wokwi.com/projects/390054005389840385" target="_blank">CHECK WORKING MODEL</a>
     <br>
     <br>
      <h2>#4  SOIL MOISTURE SENSOR </h2>
@@ -55,6 +55,7 @@
      <br>
      <img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/d716a9f5-ea7b-4e3c-8f09-80388cd64f5c" alt="TRAFFIC LIGHT SYSTEM" width="50%">
     </h3>
+    <a href="https://wokwi.com/projects/390054708169619457" target="_blank">CHECK WORKING MODEL</a>
     <br>
      <h2>#5  GARBAGE COLLECTION SYSTEM </h2>
     <h3>This project is used to collect garbage when the garbage is detected the dustbin or recycle bin will open and when no garbage is detected the bin will be closed . It is constructed using components such as 
@@ -73,3 +74,4 @@
      <br>
      <img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/f7cca2d2-341c-4841-9d2f-078effca5a16" alt="TRAFFIC LIGHT SYSTEM" width="50%">
     </h3>
+    
