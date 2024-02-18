@@ -23,5 +23,5 @@ delay(1000);
 digitalWrite(red,LOW);
 digitalWrite(yellow,LOW);
 digitalWrite(green,HIGH);
-delay(1000)
+delay(1000);
   }
