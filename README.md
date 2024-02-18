@@ -7,6 +7,9 @@
  <h2># SOFTWARE REQUIRED FOR ARDUINO UNO</h2>
     <h3>THIS PROJECT IS DONE USING ARDUINO IDE/UNO SOFTWARE</h3>
 <a href="https://www.arduino.cc/en/software" target="_blank">CLICK HERE TO DOWNLOAD THE SOFTWARE</a>
+<h3>(OR)</h3>
+<h3>USE ONLINE SIMULATOR</h3>
+<a href="https://wokwi.com/projects/new/arduino-uno" target="_blank">CLICK HERE TO OPEN ONLINE SIMULATOR</a>
     <br><br>
     <hr>
        <h2># STANDARD COMPONENTS REQUIRED</h2>
