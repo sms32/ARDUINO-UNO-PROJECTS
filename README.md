@@ -44,6 +44,8 @@
      <br>
      <img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/47058b9b-4ed7-46bc-b3aa-a1c67b699d80" alt="TRAFFIC LIGHT SYSTEM" width="50%">
     </h3>
+    <a href="https://wokwi.com/projects/390049573689037825" target="_blank">CHECK WORKING MODEL</a>
+    <br>
     <br>
      <h2>#4  SOIL MOISTURE SENSOR </h2>
     <h3>This project is used to detect the moisture present in soil and display the level of moisture present . It is constructed using components such as 
