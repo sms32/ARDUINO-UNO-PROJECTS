@@ -76,8 +76,7 @@
         the standard components mentioned above and also additionally LED bulbs with 220 OHM resistor is connected to the bread board which glows when moisture present is below a desired level and SOIL MOISTURE sensor which detects the moisture and PIR sensor to detect if anyone is there on the field and LM35 sensor to check the moisture present in Air for possibility of raining amd ultrasonic sensor to check if any obstacle is disturbing the field and a servo motor is used which turns on and off the sprinkler and  all of these are connected to the ARDUINO UNO and the code is dumped and the project will work as mentioned in the code.
      <br>
      <img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/f7cca2d2-341c-4841-9d2f-078effca5a16" alt="TRAFFIC LIGHT SYSTEM" width="50%">
-     <br>
-     
+     <br> 
     </h3>
      <a href=" https://wokwi.com/projects/390055755563915265" target="_blank">CHECK WORKING MODEL</a>
          <hr>
