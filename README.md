@@ -70,7 +70,6 @@
          <a href="https://wokwi.com/projects/390005390030647297" target="_blank">CHECK WORKING MODEL</a>
          <hr>
     <br>
-    <h1><b>NOTE : UPCOMING PROJECT </b></h1>
      <h2>#6  SMART HOME AUTOMATION </h2>
     <h3>This project is used to detect the moisture present in soil and with certain condition/situations and if nescessary it will turn on the sprinkler to moisturize the soil. It is constructed using components such as 
         the standard components mentioned above and also additionally LED bulbs with 220 OHM resistor is connected to the bread board which glows when moisture present is below a desired level and SOIL MOISTURE sensor which detects the moisture and PIR sensor to detect if anyone is there on the field and LM35 sensor to check the moisture present in Air for possibility of raining amd ultrasonic sensor to check if any obstacle is disturbing the field and a servo motor is used which turns on and off the sprinkler and  all of these are connected to the ARDUINO UNO and the code is dumped and the project will work as mentioned in the code.
