@@ -77,7 +77,7 @@
      <img src="https://github.com/sms32/ARDUINO-UNO-PROJECTS/assets/153702953/f7cca2d2-341c-4841-9d2f-078effca5a16" alt="TRAFFIC LIGHT SYSTEM" width="50%">
      <br> 
     </h3>
-     <a href=" https://wokwi.com/projects/390055755563915265">CHECK WORKING MODEL</a>
+      <a href="https://wokwi.com/projects/390055755563915265" target="_blank">CHECK WORKING MODEL</a>
          <hr>
     <br>
     
